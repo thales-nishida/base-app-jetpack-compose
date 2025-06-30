@@ -10,11 +10,11 @@ plugins {
 }
 
 android {
-    namespace = "br.com.thalesnishida.easytik"
+    namespace = "br.com.thalesnishida.appname"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "br.com.thalesnishida.easytik"
+        applicationId = "br.com.thalesnishida.appname"
         minSdk = 21
         targetSdk = 35
         versionCode = 1
